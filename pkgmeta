@@ -1,0 +1,6 @@
+enable-nolib-creation: no
+package-as: Guidelime_Shiku
+
+move-folders:
+   Guidelime_Shiku/Guidelime_Shiku : Guidelime_Shiku
+
