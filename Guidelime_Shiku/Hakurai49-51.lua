@@ -136,5 +136,5 @@ Fly to Ratchet
 [G62,38The Barrens]Loot the chest for [QC3444]
 [G62.4,38.6]Accept[QA4502]
 [V]Sell your trash and then fly to Gadgetzan
-[NX 51-53 Ungoro Crater]
+[NX 51-53 Un'Goro Crater]
 ]],"Hakurai - by Shikushiku")
