@@ -1,0 +1,26 @@
+## Title: Guidelime_Shiku
+## Author: shikushiku/Alexei
+## Version: 0.001-Beta
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Guides created by Shikushiku/Alexei on Fairbanks
+
+Hakurai1-12.lua
+Hakurai12-14.lua
+Hakurai14-16.lua
+Hakura16-20.lua
+Hakurai20-22.lua
+Hakurai22-25.lua
+Hakurai25-27.lua
+Hakurai27-30.lua
+Hakurai30-33.lua
+Hakurai33-36.lua
+Hakurai36-37.lua
+Hakurai37-39.lua
+Hakurai39-42.lua
+Hakurai42-45.lua
+Hakurai45-47.lua
+Hakurai47-49.lua
+Hakurai49-51.lua
+Nelf1-12.lua
+CauthonLuck1-10.lua
