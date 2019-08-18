@@ -4,6 +4,7 @@ Guidelime.registerGuide(
 [GA Alliance]
 [D Made from Hakurai's Video Guide\\ https://twitch.tv/hakurai \\ Our guild is recruiting! \\ https://www.guilded.gg/KOABD]
 Always grind mobs that give you xp in between locations, ALWAYS GRIND MOBS OR YOU WILL FALL BEHIND IN XP![OC]
+Hakurai no longer takes skinning, he takes Alchemy and just levels herb/alchemy from the start. You can still take skinning if you want more gold early game! It will be hard to afford a mount without it![OC]
 Enter the Deeprun Tram and Ride it to Ironforge. [OC]
 On the IF side accept [QA6661]
 Complete [QC6661]
