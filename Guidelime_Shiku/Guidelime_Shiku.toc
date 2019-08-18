@@ -25,5 +25,6 @@ Hakurai49-51.lua
 Hakurai51-53.lua
 Hakurai53-55.lua
 Hakurai55-56.lua
+Hakurai56-57.lua
 Nelf1-12.lua
 CauthonLuck1-10.lua
