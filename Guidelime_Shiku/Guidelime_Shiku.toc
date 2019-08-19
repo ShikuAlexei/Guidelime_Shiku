@@ -30,3 +30,4 @@ Hakurai57-58.lua
 Hakurai57-60.lua
 Nelf1-12.lua
 CauthonLuck1-10.lua
+TrollMage1-12.lua
