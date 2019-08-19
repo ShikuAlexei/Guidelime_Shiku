@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N 1 - 12 Teldrassil Rogue/Druid]
 [GA Alliance]
-[D Joana's Leveling guide for Nightelves]
+[D ONLY FOR ROGUES/DRUIDS]
 In front of you accept [QA456]
 Kill Young Nightsabers and Young Thistle Boars [QC456][O]
 Go East and accept [G60,42Teldrassil][QA458]

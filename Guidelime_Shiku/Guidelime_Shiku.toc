@@ -8,7 +8,7 @@
 Hakurai1-12.lua
 Hakurai12-14.lua
 Hakurai14-16.lua
-Hakura16-20.lua
+Hakurai16-20.lua
 Hakurai20-22.lua
 Hakurai22-25.lua
 Hakurai25-27.lua
