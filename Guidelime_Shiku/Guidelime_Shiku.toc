@@ -36,3 +36,5 @@ Mage30AH.lua
 Mage60AH.lua
 Rogue16.lua
 Rogue20.lua
+Warlock20AH.lua
+Warlock20UD.lua
