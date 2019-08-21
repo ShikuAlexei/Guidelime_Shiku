@@ -1,7 +1,7 @@
 Guidelime.registerGuide(
 [[
 [N 1-12 Troll Mage]
-[GA Alliance]
+[GA Horde]
 [G43.3,68.5Durotar][QA4641]
 [G42.6,67.3][V]Sell food, water, and clothes to get to 10 copper
 [G52.1,68.3][QT4641]
@@ -127,7 +127,7 @@ Die and Spirit Rez at Sen'Jin
 [G44,39][QC837]
 [G43.1,30.2][QA816]
 [G46.4,22.9][QA834]
-[37,19]Go to the river
+[G37,19]Go to the river
 [G34,50]Kill crocs for[QC816]
 [G43.1,30.2][QT816]
 [G48,34]Work on sacks
@@ -151,7 +151,7 @@ Spirit Rez at Org
 [G56.4,20][QT828]
 [QA827]
 Die on purpose and spirit rez at Org
-[41.5,18.6][QA812]
+[G41.5,18.6][QA812]
 [G54.1,68.4Orgrimmar][V]Sell trash, buy Milk
 [G49.6,69.1]Bank Meat/Stingers
 [G38.8,85.7][T]Train
