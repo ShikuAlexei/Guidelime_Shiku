@@ -31,5 +31,8 @@ Hakurai57-60.lua
 Nelf1-12.lua
 CauthonLuck1-10.lua
 TrollMage1-12.lua
+Paladin12.lua
+Mage30AH.lua
+Mage60AH.lua
 Rogue16.lua
 Rogue20.lua
