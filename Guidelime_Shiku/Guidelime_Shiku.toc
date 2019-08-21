@@ -38,3 +38,5 @@ Rogue16.lua
 Rogue20.lua
 Warlock20AH.lua
 Warlock20UD.lua
+Warlock30AH.lua
+Warlock30UD.lua
