@@ -22,4 +22,4 @@ Fly back to Undercity, take the Zeppelin to Org, and Fly to Ratchet[A Horde]
 Accept[QA1795][A Horde]
 Nearby, summon the Felhunter and kill it to complete [QC1795][A Horde]
 Turn in[QT1795][A Horde]
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")

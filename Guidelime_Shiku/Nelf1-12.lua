@@ -3,6 +3,7 @@ Guidelime.registerGuide(
 [N 1 - 12 Teldrassil Rogue/Druid]
 [GA Alliance]
 [D ONLY FOR ROGUES/DRUIDS]
+THIS GUIDE ONLY INCLUDES CLASS QUESTS FOR ROGUES AND DRUIDS -- you can still use it for other classes but will have to fit in your class quests.
 In front of you accept [QA456]
 Kill Young Nightsabers and Young Thistle Boars [QC456][O]
 Go East and accept [G60,42Teldrassil][QA458]
@@ -198,6 +199,6 @@ Go west towards Darnassus and die at the bridge to get there faster [OC]
 Turn in [G35,9Darnassus][QT934]
 Use the teleporter in Darnassus [G28,42]
 Go southeast [G58,94Teldrassil] and [F Auberdine]
-]],"1 - 12 Teldrassil Rogue/Druid")
+]],"Alliance Leveling- by Shikushiku")
 
 

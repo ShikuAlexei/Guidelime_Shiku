@@ -12,4 +12,4 @@ Fly/Run to Stormwind[OC]
 Accept[QA2282]
 [G52,45]Practice your lockpicking on the 5 lockboxes here. You can get up to skill 100 here, but once you're 75 you can open Lucius' Lockbox for the quest. [QC2282]
 [G28,52.2]Turn in[QT2282]
-]],"Rogues - by Shikushiku")
+]],"Class Quests- by Shikushiku")

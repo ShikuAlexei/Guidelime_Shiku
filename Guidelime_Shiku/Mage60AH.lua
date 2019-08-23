@@ -17,4 +17,4 @@ Teleport back down
 [G28,50Azshara]Once more, teleport up, and run to the top of the tower.
 Turn in[QT9364]
 Congrats you can turn people into pigs!
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")

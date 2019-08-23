@@ -1,6 +1,6 @@
 Guidelime.registerGuide(
 [[
-[N Cauthon Luck 1-10 Orc]
+[N 1-10 Cauthon Luck Orc]
 [GA Horde]
 [D Made from Cauthon Luck's Video Guide \\ Please consider stopping by \\ https://twitch.tv/AngelsoulTV
 ALWAYS KILL MOBS ON THE WAY TO THE NEXT OBJECTIVE, DONT TURN IN QUESTS UNLESS THE GUIDE TELLS YOU TO[OC]

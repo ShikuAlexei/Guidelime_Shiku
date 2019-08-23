@@ -37,4 +37,4 @@ Once complete, fly to Undercity, take the Zeppelin to Org, and Fly to Dustwallow
 [G46,57Dustwallow Marsh]Turn in[QT1951]
 Accept[QA1952]
 After the ritual, speak to Tabatha to select your wand!
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")

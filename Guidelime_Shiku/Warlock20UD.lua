@@ -14,4 +14,4 @@ Fly to Silverpine Forest[A Horde]
 [G83,27Undercity]Return to Undercity and turn in[QT1476][A Horde]
 Accept[QA1474][A Horde]
 Use the same summoning circle from the Voidwalker quest to summon the succubus and kill her, then turn in[QT1474][A Horde]
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")

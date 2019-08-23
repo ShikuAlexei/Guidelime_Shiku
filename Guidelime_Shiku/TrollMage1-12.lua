@@ -248,5 +248,5 @@ Die and Spirit Rez at The Crossroads
 [G52.3,31.9][QT870]
 [G52.3,31.9][QA877]
 You should be level 12 now to start dungeon grinding
-]],"by Shikushiku")
+]],"Horde Leveling by Shikushiku")
 

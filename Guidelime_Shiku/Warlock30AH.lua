@@ -46,4 +46,4 @@ Head back to Menethil, take the boat to Theramore, Fly to Ratchet[A Alliance]
 Accept[QA1795][A Alliance]
 Nearby, summon the Felhunter and kill it to complete [QC1795][A Alliance]
 Grats you have a dog of sorts!
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")

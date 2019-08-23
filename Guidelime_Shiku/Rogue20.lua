@@ -21,4 +21,4 @@ Accept[QA2607]
 [G64.2,61][V]Buy Simple Wildflowers
 [G76.8,59.8][V]Buy Leaded Vial
 [G78,59.2]Turn in[QT2607]
-]],"Rogues - by Shikushiku")
+]],"Class Quests- by Shikushiku")

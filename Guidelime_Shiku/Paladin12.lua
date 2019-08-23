@@ -50,4 +50,4 @@ Kill Dark Iron in the area until you get a Dark Iron Script[QC1784][A Dwarf]
 Accept[QA1785][A Dwarf]
 [G26.8,11]Turn in[QT1785][A Dwarf]
 Congrats, you can rez people!
-]],"- by Shikushiku")
+]],"Class Quests- by Shikushiku")
