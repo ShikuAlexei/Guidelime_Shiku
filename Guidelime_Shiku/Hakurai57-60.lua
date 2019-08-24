@@ -2,6 +2,8 @@ Guidelime.registerGuide(
 [[
 [N 57-60 Western Plaguelands]
 [GA Alliance]
+[D Made from Hakurai's Video Guide\\ https://twitch.tv/hakurai \\ Our guild is recruiting! \\ https://www.guilded.gg/KOABD]
+Start killing mobs in excess and as you travel, without Silithus in the game at launch, you will have to make up the xp some how!
 You should be in Menethil Harbor. If you were able to do Silithus you're 58, if not, you're 57, but we're all going to the same place[OC]
 Take the boat to Auberdine
 Fly to Rut'theran Village

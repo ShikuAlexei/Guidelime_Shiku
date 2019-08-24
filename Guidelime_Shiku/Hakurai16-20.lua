@@ -17,9 +17,12 @@ Always grind mobs that give you xp in between locations, ALWAYS GRIND MOBS OR YO
 [G61.4,89.2Ironforge][T]Train 2-Handed Maces and 2-Handed Axes[A Warrior]
 [G54.8,58.6Ironforge][T]Train First Aid and Herbalism
 [G60,36.8][T]Train Cooking
+[G69.4,50.6Ironforge]Accept[QA2041]
+[G36.4,66][V]If you can afford  the Rock Hammer from Grenil  for 63 silver, buy it![A Warrior,Paladin]
 Go to the Deeprun Tram and enter the portal, inside accept [QA6662]
 Turn it in on the Stormwind side of the tram. and then zone into stormwind.[OC]
-[G55.4,12.6Stormwind City]Accept [QA2040]
+[G55.4,12.6Stormwind City]Turn in[QT2041]
+Accept [QA2040]
 [G57.4,16.6]Turn in [QT1338]
 [G65.2,21.2]Accept [QA167]
 Accept [QA168]

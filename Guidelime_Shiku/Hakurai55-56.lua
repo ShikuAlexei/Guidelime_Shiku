@@ -2,6 +2,8 @@ Guidelime.registerGuide(
 [[
 [N 55-56 Winterspring]
 [GA Alliance]
+[D Made from Hakurai's Video Guide\\ https://twitch.tv/hakurai \\ Our guild is recruiting! \\ https://www.guilded.gg/KOABD]
+Start killing mobs in excess and as you travel, without Silithus in the game at launch, you will have to make up the xp some how!
 [G27.8,34.4Winterspring]Go to Winterspring and accept[QA6241]
 [G31,45]Accept [QA4842]
 Accept[QA5082]

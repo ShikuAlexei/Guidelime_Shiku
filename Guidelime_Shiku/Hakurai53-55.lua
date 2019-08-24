@@ -3,6 +3,7 @@ Guidelime.registerGuide(
 [N 53-55 Felwood]
 [GA Alliance]
 [D Made from Hakurai's Video Guide\\ https://twitch.tv/hakurai \\ Our guild is recruiting! \\ https://www.guilded.gg/KOABD]
+Start killing mobs in excess and as you travel, without Silithus in the game at launch, you will have to make up the xp some how!
 We're roughly 20 more hours /played until you're 60. Grats![OC]
 Open the crate in your bags for A little Slime Goes a Long Way quest to get 12 empty vials.[OC]
 [G41,67Felwood]Kill Cursed Ooze and use the jars on their corpse for [QC4512,1]

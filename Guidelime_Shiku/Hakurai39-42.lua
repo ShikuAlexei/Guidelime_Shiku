@@ -59,6 +59,7 @@ The order of items is FROST OIL, GYROCHRONATOM, HEALING POTION+LESSER INVISIBILI
 You should be able to craft 1 Healing potion and 1 Lesser Invis, otherwise check AH[OC]
 Check AH for Patterened Bronze Bracer[OC]
 If you have 90 gold, you can go buy your mount now. Otherwise you'll have to wait, Hakurai did not get his until level 43[OC]
+[G60,36.8Ironforge]Accept[QA6612]Requires 225 cooking -- you should have this by now! Turn this quest in the next time you're in Gadgetzan, the guide will not tell you to!
 [G55.6,48.2]Fly to [F Thelsamar]
 [G35.4,48.4Loch Modan]Set hearth to [S Thelsamar]
 [G37,49.2]Accept[QA2500]

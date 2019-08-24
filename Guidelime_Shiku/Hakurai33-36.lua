@@ -80,7 +80,9 @@ Turn in[QT189]
 [G28.2,77.4]Turn in[QT575]
 Accept[QA577]
 [G27,77.2]Set Hearthstone to [S Booty Bay][A Warrior]
-[G27.4,77.6]Fly to [F Darkshire]
+[G27.4,77.6]Fly to [F Stormwind]
+[G41.4,89.2Stormwind City]Accept [QA1260] from The Mage Quarter (Hakurai didn't state when to turn this in, so just turn it in next time you're in Theramore)
+Run back to the flight path and Fly to [F Darkshire]
 If you're playing on a F R E S H server then drop Favor for Krazek, we wont be able to buy the ore[OC]
 [G45,66.8Duskwood]Head West along the road.
 [G35.6,10.6Stranglethorn Vale]Head south into STV

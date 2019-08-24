@@ -94,8 +94,11 @@ Accept [QA950]
 [G43.6,76.4]Turn in[QT950]
 [G43.8,76.4][V]Sell your trash, KEEP MURLOC FINS AND CLAM MEAT
 [G44.4,76.4]Accept [QA5321] escort quest, loot the chest on the ground next to her. EVERYONE IN THE PARTY NEEDS THE HORN.
+[G45.8,90.2]Accept[QA5713]
+Complete both the  escort quests at  the same time, make sure to use the horn to wake up the sleepy girl when you need![QC5713]
 [G27.2,35.6Ashenvale]STAY OFF THE ROAD and no mobs will spawn. Use the horn to wake her up occasionally.[OC]
 Turn in [QT5321]
+[G26.6,36.6]Turn in[QT5713]
 [G26.2,38.6]Turn in [QT967]
 Accept [QA970]
 [G26.4,38.6]Accept [QA1010]

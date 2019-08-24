@@ -114,15 +114,13 @@ Grind to level [XP32] if you aren't already
 This is your last chance to do Stockades, if you don't do it now dump all of the stockades quests[OC]
 [T]Train your class skills if you need to at this point[OC]
 [G78.8,45.4Stormwind City][T]Warriors go pick up your quest [QA1718] [A Warrior]
-[G41.4,89.2Stormwind City]Accept [QA1260] in the Mage Quarter
 [H]Hearth to Southshore
 [G49.4,52.4Hillsbrad Foothills]Fly to [F Menethil Harbor]
 Go to the Southern Docks and take the boat to Theramore[OC]
 [G67.4,51.2Dustwallow Marsh]Grab the flightpath
 [G66,46]Accept [QA1282]
 [G65.9,45.4]Mail herbs
-[G66.4,45.4]Turn in[QT1260]
-Accept[QA1135] from the Highelf next to him
+[G66.4,45.2]Accept[QA1135] from the Highelf
 [G68,48.6]Go to the keep, head upstairs, turn in[QT1282]
 Turn in[QT1264]
 Accept[QA1265]

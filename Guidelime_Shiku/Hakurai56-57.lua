@@ -2,6 +2,8 @@ Guidelime.registerGuide(
 [[
 [N 56-57 Burning Steppes]
 [GA Alliance]
+[D Made from Hakurai's Video Guide\\ https://twitch.tv/hakurai \\ Our guild is recruiting! \\ https://www.guilded.gg/KOABD]
+Start killing mobs in excess and as you travel, without Silithus in the game at launch, you will have to make up the xp some how!
 Start looking for a group for Dragonkin Menace for the rest of the guide, it's the first step in the Onyxia Attunement quest and it's elite.[OC]
 Follow the road north east out of Redridge to get to the Burning Steppes[OC]
 [G84.4,68.2Burning Steppes]Grab the flightpath
