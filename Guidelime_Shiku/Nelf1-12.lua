@@ -80,7 +80,7 @@ Accept [QA483]
 Go [G56,59][V]and sell/repair
 Go south and turn in [G56,62][QT929]
 Accept [QA933]
-Just to the east [T] Apprentice Cook [G57,41] and then accept [QA4161]. Turn this in once you get all the legs.
+Just to the east [T] Apprentice Cook [G57,61] and then accept [QA4161]. Turn this in once you get all the legs.
 Complete [QC489] by looting smelly pinecones near trees
 Go turn in [G60,56][QT489]
 If you have a group continue to the next part, if you are solo grind to level 8 first.[O]
