@@ -73,7 +73,7 @@ Keep killing murlocs until you have 3 murloc eyes[OC]
 For the next part, make sure you get herbalism to 70, and finished collecting strider meat if you still need it.[OC]
 [G51.2,33.4]Grind east, killing bears for [QC2138]
 Make sure you finished [QC2178]
-[G50,25]Bottom of the waterfall, fill the vial for [QC4726]
+[G50,25]Bottom of the waterfall, fill the vial for [QC4762]
 [G44.2,36.2]Turn in[QT957]
 Grind to [XP16]If you aren't yet
 [G38.8,43.4]Turn in[QT2138]
